@@ -1,0 +1,13 @@
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemory\bin\Debug\netcoreapp3.1\SharedMemoryWriter.exe
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemory\bin\Debug\netcoreapp3.1\SharedMemoryWriter.deps.json
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemory\bin\Debug\netcoreapp3.1\SharedMemoryWriter.runtimeconfig.json
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemory\bin\Debug\netcoreapp3.1\SharedMemoryWriter.runtimeconfig.dev.json
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemory\bin\Debug\netcoreapp3.1\SharedMemoryWriter.dll
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemory\bin\Debug\netcoreapp3.1\SharedMemoryWriter.pdb
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemory\obj\Debug\netcoreapp3.1\SharedMemoryWriter.csprojAssemblyReference.cache
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemory\obj\Debug\netcoreapp3.1\SharedMemoryWriter.AssemblyInfoInputs.cache
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemory\obj\Debug\netcoreapp3.1\SharedMemoryWriter.AssemblyInfo.cs
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemory\obj\Debug\netcoreapp3.1\SharedMemoryWriter.csproj.CoreCompileInputs.cache
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemory\obj\Debug\netcoreapp3.1\SharedMemoryWriter.dll
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemory\obj\Debug\netcoreapp3.1\SharedMemoryWriter.pdb
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemory\obj\Debug\netcoreapp3.1\SharedMemoryWriter.genruntimeconfig.cache

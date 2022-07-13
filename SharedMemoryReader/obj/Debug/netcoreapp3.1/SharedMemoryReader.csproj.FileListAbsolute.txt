@@ -1,0 +1,12 @@
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemoryReader\bin\Debug\netcoreapp3.1\SharedMemoryReader.exe
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemoryReader\bin\Debug\netcoreapp3.1\SharedMemoryReader.deps.json
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemoryReader\bin\Debug\netcoreapp3.1\SharedMemoryReader.runtimeconfig.json
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemoryReader\bin\Debug\netcoreapp3.1\SharedMemoryReader.runtimeconfig.dev.json
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemoryReader\bin\Debug\netcoreapp3.1\SharedMemoryReader.dll
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemoryReader\bin\Debug\netcoreapp3.1\SharedMemoryReader.pdb
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemoryReader\obj\Debug\netcoreapp3.1\SharedMemoryReader.AssemblyInfoInputs.cache
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemoryReader\obj\Debug\netcoreapp3.1\SharedMemoryReader.AssemblyInfo.cs
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemoryReader\obj\Debug\netcoreapp3.1\SharedMemoryReader.csproj.CoreCompileInputs.cache
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemoryReader\obj\Debug\netcoreapp3.1\SharedMemoryReader.dll
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemoryReader\obj\Debug\netcoreapp3.1\SharedMemoryReader.pdb
+C:\Users\Cathal\source\repos\SharedMemory\SharedMemoryReader\obj\Debug\netcoreapp3.1\SharedMemoryReader.genruntimeconfig.cache
